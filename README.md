@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Heather-2000/Heather-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Han+Sans&size=30&duration=2500&pause=390&color=316AF7&vCenter=true&multiline=true&width=500&height=100&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EA%B2%BD%ED%97%98%EC%9D%84+%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%98%EB%8A%94;%EC%B5%9C%ED%9D%AC%EC%8A%B9%EC%9E%85%EB%8B%88%EB%8B%A4.+)](https://git.io/typing-svg)
+
+
+# Studying .. 
+
+<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
